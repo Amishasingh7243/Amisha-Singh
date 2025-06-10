@@ -4,19 +4,12 @@ Aspiring Full-Stack Developer
 I'm a Computer Science Engineering (CSE) student at Galgotias College with a strong passion for building scalable and user-friendly web applications and Currently I am learning React and Next js.
 
 🌍  I'm from Greater Noida, India
-
 🖥  See my portfolio at  (https://amisha-singh.netlify.app)
-
 ✉  You can contact me at amishasingh7243@gmail.com
-
 🚀  I'm currently working on Student Accommodation website  – A full-stack project .
-
 🧠  I'm learning React Native, Node js
-
 🤝  I'm open to collaborating on Web Development 
-
 ⚡  Fun Fact: I like to explore new things and technology!
-
 Skills
  Python Django HTML5 React CSS3 MongoDB
 ## 🌐 Socials:

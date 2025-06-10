@@ -1,4 +1,16 @@
+💫 Hi 👋,My name is Amisha Singh
+Aspiring Full-Stack Developer
+I'm a Computer Science Engineering (CSE) student at Galgotias College with a strong passion for building scalable and user-friendly web applications and Currently I am learning React and Next js.
 
+🌍  I'm based in Greater Noida, India
+🖥  See my portfolio at MyPortfolio (https://amisha-singh.netlify.app)
+✉  You can contact me at amishasingh7243@gmail.com
+🚀  I'm currently working on Student Accommodation website  – A full-stack project .
+🧠  I'm learning React Native, Node js
+🤝  I'm open to collaborating on Web Development 
+⚡  Fun Fact: I like to explore new things and technology!
+Skills
+ Python Django HTML5 React CSS3 MongoDB
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/amishha__singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amisha Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amishasingh7243@gmail.com) 
 
@@ -9,7 +21,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Amishasingh7243&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amishasingh7243&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=Amishasingh7243&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote

@@ -3,9 +3,9 @@
 Aspiring Full-Stack Developer
 I'm a Computer Science Engineering (CSE) student at Galgotias College with a strong passion for building scalable and user-friendly web applications and Currently I am learning React and Next js.
 
-🌍  I'm based in Greater Noida, India
+🌍  I'm from Greater Noida, India
 
-🖥  See my portfolio at MyPortfolio (https://amisha-singh.netlify.app)
+🖥  See my portfolio at  (https://amisha-singh.netlify.app)
 
 ✉  You can contact me at amishasingh7243@gmail.com
 
@@ -21,7 +21,7 @@ Skills
  Python Django HTML5 React CSS3 MongoDB
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/amishha__singh) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amishasingh7243@gmail.com) 
 
 # 💻 Tech Stack:

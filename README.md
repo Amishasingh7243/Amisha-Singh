@@ -6,9 +6,6 @@ I'm a Computer Science Engineering (CSE) student at Galgotias College with a str
 
 🌍  I'm from Greater Noida, India
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 🖥  See my portfolio at  (https://amisha-singh.netlify.app)
 
 ✉  You can contact me at amishasingh7243@gmail.com

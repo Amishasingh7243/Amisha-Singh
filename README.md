@@ -10,13 +10,14 @@ I'm a Computer Science Engineering (CSE) student at Galgotias College with a str
 ✉  You can contact me at amishasingh7243@gmail.com
 
 🚀  I'm currently working on Student Accommodation website  – A full-stack project .
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 🧠  I'm learning React Native, Node js
 
 🤝  I'm open to collaborating on Web Development 
 
 ⚡  Fun Fact: I like to explore new things and technology!
-<img align="right" alt="coding" width="400" height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 ### 🔍 Skills:

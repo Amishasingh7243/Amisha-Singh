@@ -6,12 +6,11 @@ I'm a Computer Science Engineering (CSE) student at Galgotias College with a str
 🌍  I'm from Greater Noida, India
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
 🖥  See my portfolio at  (https://amisha-singh.netlify.app)
 
 ✉  You can contact me at amishasingh7243@gmail.com
 
-🚀  I'm currently working on Student Accommodation website  – A full-stack project .
+🚀  I'm currently working on Student Accommodation website  – A full-stack project 
 
 🧠  I'm learning React Native, Node js
 

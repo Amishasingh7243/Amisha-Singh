@@ -2,10 +2,10 @@
 
 Aspiring Full-Stack Developer
 I'm a Computer Science Engineering (CSE) student at Galgotias College with a strong passion for building scalable and user-friendly web applications and Currently I am learning React and Next js.
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 
 🌍  I'm from Greater Noida, India
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 🖥  See my portfolio at  (https://amisha-singh.netlify.app)
 

@@ -5,7 +5,7 @@ I'm a Computer Science Engineering (CSE) student at Galgotias College with a str
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilasanga&label=Profile%20views&color=0e75b6&style=flat" alt="akhilasanga" /> </p>
 
 🌍  I'm from Greater Noida, India
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilasanga&label=Profile%20views&color=0e75b6&style=flat" alt="akhilasanga" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
